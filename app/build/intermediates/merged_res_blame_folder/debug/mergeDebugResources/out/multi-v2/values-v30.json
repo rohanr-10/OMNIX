@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.omnix.app-mergeDebugResources-63:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ROHAN R\\.gradle\\caches\\8.9\\transforms\\9c745f2656be9b44f49b7c87c1fc320f\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

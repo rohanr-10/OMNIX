@@ -1,0 +1,74 @@
+com.omnix.app-ui-test-manifest-1.7.4-0 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\0254f4709b3ca6676cf9b8c216c885eb\transformed\ui-test-manifest-1.7.4\res
+com.omnix.app-navigation-compose-2.8.2-1 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\0803af674d91dd29b86f4cd1759408e5\transformed\navigation-compose-2.8.2\res
+com.omnix.app-ui-tooling-release-2 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\10d323e0c33dafc60fd1eb3ee4e3afa1\transformed\ui-tooling-release\res
+com.omnix.app-lifecycle-livedata-2.8.6-3 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\11b2755226783ba74477085fb828da91\transformed\lifecycle-livedata-2.8.6\res
+com.omnix.app-material-ripple-release-4 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\1500e81e929e76222e2db468a8e11273\transformed\material-ripple-release\res
+com.omnix.app-activity-compose-1.9.2-5 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\1992487f9849e6b187525d8de25d78a8\transformed\activity-compose-1.9.2\res
+com.omnix.app-lifecycle-runtime-release-6 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\2374f2a734bd46087f787bc0fcd962e7\transformed\lifecycle-runtime-release\res
+com.omnix.app-lifecycle-viewmodel-compose-release-7 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\256453b74760fc98059f6cea1b5b10be\transformed\lifecycle-viewmodel-compose-release\res
+com.omnix.app-navigation-runtime-ktx-2.8.2-8 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\27c897687037fdeb1a8911b9b6e954f0\transformed\navigation-runtime-ktx-2.8.2\res
+com.omnix.app-savedstate-ktx-1.2.1-9 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\2ba2fb1b78e56447f00365cbd60e1442\transformed\savedstate-ktx-1.2.1\res
+com.omnix.app-core-runtime-2.2.0-10 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\2f74e8490ad924b2d09cbb3972b81946\transformed\core-runtime-2.2.0\res
+com.omnix.app-animation-core-release-11 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\36f001f903507740bd29aa072edd7476\transformed\animation-core-release\res
+com.omnix.app-ui-text-release-12 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\3757d0f4cad253451e269bbc9e1c9594\transformed\ui-text-release\res
+com.omnix.app-ui-graphics-release-13 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\3885c378c6c15b529ea0570e8d6348ef\transformed\ui-graphics-release\res
+com.omnix.app-sqlite-framework-2.4.0-14 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\3b14e616687ea18e3baf3fb8ecd8da26\transformed\sqlite-framework-2.4.0\res
+com.omnix.app-room-ktx-2.6.1-15 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\401401c482e76bd1728511e28c800fb6\transformed\room-ktx-2.6.1\res
+com.omnix.app-datastore-core-release-16 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\43d8282260c9573f14ba94c3bb618ff3\transformed\datastore-core-release\res
+com.omnix.app-ui-release-17 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\4d6540a95fd542bf5f04d51237eb903a\transformed\ui-release\res
+com.omnix.app-lifecycle-livedata-core-ktx-2.8.6-18 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\5f81c21a8811cd40b958777278faea92\transformed\lifecycle-livedata-core-ktx-2.8.6\res
+com.omnix.app-ui-unit-release-19 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\61de899e9db2b6d68cd461e206ae14c6\transformed\ui-unit-release\res
+com.omnix.app-room-runtime-2.6.1-20 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\6564110fbd742d64df0d5c400fb6e05b\transformed\room-runtime-2.6.1\res
+com.omnix.app-material-release-21 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\66d2c46fe2017d99042690b36d2832a6\transformed\material-release\res
+com.omnix.app-ui-util-release-22 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\68fdfdc2e02c6f240c5edc393bdb80c9\transformed\ui-util-release\res
+com.omnix.app-runtime-release-23 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\695b31a0f3ee83593a97039f423e2b4a\transformed\runtime-release\res
+com.omnix.app-ui-tooling-data-release-24 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\6def9d2a8700c54d1bce6da15cc0aabb\transformed\ui-tooling-data-release\res
+com.omnix.app-foundation-layout-release-25 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\7742bc452f3412354fbad9cd1b62e05a\transformed\foundation-layout-release\res
+com.omnix.app-core-ktx-1.13.1-26 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\788723b4914cfbb598edc7b4f1d65a75\transformed\core-ktx-1.13.1\res
+com.omnix.app-material-icons-core-release-27 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\7adfac1d708d3d504fef822834bfcd4c\transformed\material-icons-core-release\res
+com.omnix.app-lifecycle-viewmodel-savedstate-2.8.6-28 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\82924f545846842931b59647f3c4c83a\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.omnix.app-navigation-common-2.8.2-29 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\845b54a0c3f471ecc9020de162174fa5\transformed\navigation-common-2.8.2\res
+com.omnix.app-hilt-navigation-compose-1.2.0-30 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\8909fc3207ba4c2cc94489ff06c3494a\transformed\hilt-navigation-compose-1.2.0\res
+com.omnix.app-savedstate-1.2.1-31 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\8ebda2f6cfd6d8fb3ba16915e53c4253\transformed\savedstate-1.2.1\res
+com.omnix.app-animation-release-32 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\9c23fd08fa2a8c98c0e7f1864a76059b\transformed\animation-release\res
+com.omnix.app-material3-release-33 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\9c745f2656be9b44f49b7c87c1fc320f\transformed\material3-release\res
+com.omnix.app-fragment-1.5.1-34 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\9d084ac300c3f0d0b0856a16de869669\transformed\fragment-1.5.1\res
+com.omnix.app-profileinstaller-1.3.1-35 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\bb833e65f806cc95238b56d9a240d217\transformed\profileinstaller-1.3.1\res
+com.omnix.app-datastore-release-36 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\bbaa5b9f409b2bb12a9fd7ea34d2fc24\transformed\datastore-release\res
+com.omnix.app-runtime-saveable-release-37 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\be92e734eb142eb818234dcbebe3cb12\transformed\runtime-saveable-release\res
+com.omnix.app-foundation-release-38 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\c2ffe00e8a9ae7f1e86cbdc65cf02151\transformed\foundation-release\res
+com.omnix.app-navigation-runtime-2.8.2-39 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\c97f6f83071b967a1e7dbb9f1645f9f3\transformed\navigation-runtime-2.8.2\res
+com.omnix.app-lifecycle-process-2.8.6-40 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\ce2d39c1596582e742e6354f176defde\transformed\lifecycle-process-2.8.6\res
+com.omnix.app-startup-runtime-1.1.1-41 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\d1083b2eca4e76ec868d2d0379323373\transformed\startup-runtime-1.1.1\res
+com.omnix.app-ui-tooling-preview-release-42 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\d509856d38638d7515afb5b7b36caf8d\transformed\ui-tooling-preview-release\res
+com.omnix.app-lifecycle-livedata-core-2.8.6-43 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\dc31d0131d6b600723ad31e25a8b32cd\transformed\lifecycle-livedata-core-2.8.6\res
+com.omnix.app-emoji2-1.3.0-44 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\dd62350ca396ba4649b0074dae2f12e3\transformed\emoji2-1.3.0\res
+com.omnix.app-lifecycle-viewmodel-ktx-2.8.6-45 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\dec9ede68f52497794fc669f0eb366f2\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.omnix.app-annotation-experimental-1.4.1-46 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\df1211b976ab5a5e069c58e9d8b9ae27\transformed\annotation-experimental-1.4.1\res
+com.omnix.app-material-icons-extended-release-47 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\e085716ed4cbd8b4da78bbf25e604192\transformed\material-icons-extended-release\res
+com.omnix.app-lifecycle-runtime-compose-release-48 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\e1a6636b5a2b373e6224c8b6003ad493\transformed\lifecycle-runtime-compose-release\res
+com.omnix.app-activity-ktx-1.9.2-49 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\e412ec612abcdea28439e45f8df8aea3\transformed\activity-ktx-1.9.2\res
+com.omnix.app-lifecycle-runtime-ktx-release-50 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\e439779cdf18db19a234bfab4136f2ea\transformed\lifecycle-runtime-ktx-release\res
+com.omnix.app-navigation-common-ktx-2.8.2-51 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\e4bc0e7c9bbc4a12479a59a7b82b63b1\transformed\navigation-common-ktx-2.8.2\res
+com.omnix.app-graphics-path-1.0.1-52 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\e5b3635316975fad8f63cacbbd2619e5\transformed\graphics-path-1.0.1\res
+com.omnix.app-activity-1.9.2-53 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\e68da2b0329c9d24cb1c71aa57f87ecd\transformed\activity-1.9.2\res
+com.omnix.app-sqlite-2.4.0-54 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\e7f306997802d6c00ea142f126198450\transformed\sqlite-2.4.0\res
+com.omnix.app-hilt-navigation-1.2.0-55 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\ee68687e02484d71af2f368de77039a6\transformed\hilt-navigation-1.2.0\res
+com.omnix.app-lifecycle-viewmodel-release-56 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\f33818b831d412f4503ea177f7bb09ea\transformed\lifecycle-viewmodel-release\res
+com.omnix.app-ui-geometry-release-57 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\f3675cd2a2dab9791a62fd6877ad38ec\transformed\ui-geometry-release\res
+com.omnix.app-core-1.13.1-58 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\f6b68d5973dd1b0c69b25d71582889c2\transformed\core-1.13.1\res
+com.omnix.app-customview-poolingcontainer-1.0.0-59 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\f70756703a1ef2fe8ca0cffbbc2a9231\transformed\customview-poolingcontainer-1.0.0\res
+com.omnix.app-datastore-preferences-release-60 C:\Users\ROHAN R\.gradle\caches\8.9\transforms\fce2a34334735319bd28541595c81d14\transformed\datastore-preferences-release\res
+com.omnix.app-pngs-61 E:\omnix\app\build\generated\res\pngs\debug
+com.omnix.app-resValues-62 E:\omnix\app\build\generated\res\resValues\debug
+com.omnix.app-packageDebugResources-63 E:\omnix\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.omnix.app-packageDebugResources-64 E:\omnix\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.omnix.app-debug-65 E:\omnix\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.omnix.app-debug-66 E:\omnix\app\src\debug\res
+com.omnix.app-main-67 E:\omnix\app\src\main\res
+com.omnix.app-debug-68 E:\omnix\core-data\build\intermediates\packaged_res\debug\packageDebugResources
+com.omnix.app-debug-69 E:\omnix\core-model\build\intermediates\packaged_res\debug\packageDebugResources
+com.omnix.app-debug-70 E:\omnix\core-ui\build\intermediates\packaged_res\debug\packageDebugResources
+com.omnix.app-debug-71 E:\omnix\feature-chat\build\intermediates\packaged_res\debug\packageDebugResources
+com.omnix.app-debug-72 E:\omnix\feature-council\build\intermediates\packaged_res\debug\packageDebugResources
+com.omnix.app-debug-73 E:\omnix\feature-home\build\intermediates\packaged_res\debug\packageDebugResources

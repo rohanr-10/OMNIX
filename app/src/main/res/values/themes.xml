@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--
+        OMNIX is themed entirely through Jetpack Compose (OmnixTheme.kt).
+        This XML theme only configures the window/splash-level basics that
+        must exist before Compose content is set.
+    -->
+    <style name="Theme.Omnix" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="23">true</item>
+    </style>
+</resources>
