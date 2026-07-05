@@ -23,5 +23,6 @@ include(
     ":core-data",
     ":feature-home",
     ":feature-chat",
-    ":feature-council"
+    ":feature-council",
+    ":feature-modelmanager"
 )

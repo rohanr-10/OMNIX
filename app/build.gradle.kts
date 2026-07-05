@@ -61,6 +61,7 @@ dependencies {
     implementation(project(":feature-home"))
     implementation(project(":feature-chat"))
     implementation(project(":feature-council"))
+    implementation(project(":feature-modelmanager"))
 
     implementation(libs.core.ktx)
     implementation(libs.lifecycle.runtime.ktx)

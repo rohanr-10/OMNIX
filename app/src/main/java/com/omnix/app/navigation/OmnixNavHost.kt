@@ -10,6 +10,7 @@ import androidx.navigation.navArgument
 import com.omnix.feature.chat.ChatScreen
 import com.omnix.feature.council.CouncilScreen
 import com.omnix.feature.home.HomeScreen
+import com.omnix.feature.modelmanager.ModelManagerScreen
 import java.net.URLEncoder
 import java.nio.charset.StandardCharsets
 
@@ -17,6 +18,7 @@ object OmnixDestinations {
     const val HOME = "home"
     const val CHAT = "chat/{sessionId}"
     const val AI_COUNCIL = "ai_council/{sessionId}/{prompt}"
+    const val MODEL_MANAGER = "model_manager"
 
     fun chatRoute(sessionId: String) = "chat/$sessionId"
 
@@ -38,6 +40,9 @@ fun OmnixNavHost(
             HomeScreen(
                 onOpenChat = { sessionId ->
                     navController.navigate(OmnixDestinations.chatRoute(sessionId))
+                },
+                onOpenModelManager = {
+                    navController.navigate(OmnixDestinations.MODEL_MANAGER)
                 }
             )
         }
@@ -63,6 +68,12 @@ fun OmnixNavHost(
             )
         ) {
             CouncilScreen(
+                onNavigateBack = { navController.popBackStack() }
+            )
+        }
+
+        composable(OmnixDestinations.MODEL_MANAGER) {
+            ModelManagerScreen(
                 onNavigateBack = { navController.popBackStack() }
             )
         }

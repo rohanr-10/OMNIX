@@ -5,6 +5,7 @@ import androidx.room.Room
 import com.omnix.core.data.local.OmnixDatabase
 import com.omnix.core.data.local.dao.ChatMessageDao
 import com.omnix.core.data.local.dao.ChatSessionDao
+import com.omnix.core.data.local.dao.ModelStateDao
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -24,6 +25,7 @@ object DatabaseModule {
             OmnixDatabase::class.java,
             OmnixDatabase.DATABASE_NAME
         )
+            .addMigrations(OmnixDatabase.MIGRATION_1_2)
             .fallbackToDestructiveMigration()
             .build()
     }
@@ -35,4 +37,8 @@ object DatabaseModule {
     @Provides
     fun provideChatMessageDao(database: OmnixDatabase): ChatMessageDao =
         database.chatMessageDao()
+
+    @Provides
+    fun provideModelStateDao(database: OmnixDatabase): ModelStateDao =
+        database.modelStateDao()
 }
