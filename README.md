@@ -11,14 +11,14 @@ The project is currently under active development.
 The long-term objective of OMNIX is to provide an extensible AI platform capable of:
 
 - Multi-agent reasoning
-- Local model execution
-- Conversation memory
-- Document understanding
-- Vision capabilities
-- Autonomous task workflows
+- Local AI model execution
+- Intelligent model management
+- Long-term conversation memory
+- Vision and document understanding
+- Autonomous task execution
 - Offline-first operation
 
-The architecture is intentionally modular to allow new AI capabilities to be integrated without major changes to the application structure.
+The architecture is intentionally modular, allowing new capabilities to be integrated without major changes to the existing codebase.
 
 ---
 
@@ -26,25 +26,27 @@ The architecture is intentionally modular to allow new AI capabilities to be int
 
 Current development milestone:
 
-**Phase 3 – AI Council**
+**Phase 4 – Model Manager**
 
-Implemented:
+### Implemented
 
 - Multi-module Android architecture
-- Material 3 UI with dynamic color support
+- Material 3 UI with Material You support
 - Home dashboard
 - Chat interface
 - AI Council framework
+- Model Manager
+- Device hardware profiling
 - Room persistence layer
 - Repository architecture
 - Hilt dependency injection
-- Navigation between application modules
+- Navigation between feature modules
 
 ---
 
 ## Project Structure
 
-```
+```text
 app/
 core-data/
 core-model/
@@ -52,19 +54,37 @@ core-ui/
 feature-chat/
 feature-council/
 feature-home/
+feature-modelmanager/
 ```
 
 ### Modules
 
 | Module | Description |
 |---------|-------------|
-| `app` | Application entry point, navigation, dependency injection |
-| `core-model` | Domain models shared across modules |
-| `core-data` | Repository layer, Room database, DataStore, AI interfaces |
-| `core-ui` | Shared UI components, themes, design system |
+| `app` | Application entry point, navigation and dependency injection |
+| `core-model` | Shared domain models |
+| `core-data` | Repository layer, Room database, DataStore, device profiling and AI interfaces |
+| `core-ui` | Shared UI components, theme and design system |
 | `feature-home` | Home dashboard |
-| `feature-chat` | Chat experience |
-| `feature-council` | Multi-agent AI Council implementation |
+| `feature-chat` | Chat interface |
+| `feature-council` | Multi-agent AI Council |
+| `feature-modelmanager` | AI model management, hardware profiling and model selection |
+
+---
+
+## Current Features
+
+- Multi-agent AI Council
+- Model Manager
+- Device capability detection
+- AI model recommendation
+- Simulated model installation workflow
+- Material You interface
+- Dark mode support
+- Room persistence
+- Modular architecture
+- Jetpack Compose UI
+- Dependency injection with Hilt
 
 ---
 
@@ -92,30 +112,37 @@ feature-home/
 - Chat experience
 - Persistence improvements
 
-### Phase 3 *(Current)*
+### Phase 3
 - AI Council
 - Multi-agent orchestration
 - Council visualization
 
-### Phase 4
+### Phase 4 (Current)
 - Model Manager
-- Hardware capability detection
-- Local model selection
+- Device hardware detection
+- AI model management
+- Model recommendation engine
 
 ### Phase 5
+- Local inference engine
+- AI model execution
+- Streaming responses
+- Runtime management
+
+### Phase 6
 - Long-term memory
 - Semantic retrieval
 - Context management
 
-### Phase 6
+### Phase 7
 - Vision
-- Document processing
+- Document understanding
 - Plugin framework
 
-### Phase 7
-- Local LLM integration
+### Phase 8
 - Performance optimization
-- Testing and stabilization
+- Testing
+- Production stabilization
 
 ---
 
@@ -124,7 +151,7 @@ feature-home/
 Clone the repository:
 
 ```bash
-git clone https://github.com/rohanr24332-del/OMNIX.git
+git clone https://github.com/rohanr-10/OMNIX.git
 ```
 
 Open the project in Android Studio and allow Gradle to synchronize dependencies.
