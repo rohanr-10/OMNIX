@@ -1,6 +1,6 @@
 # OMNIX
 
-OMNIX is a modular, local-first AI assistant for Android built using Jetpack Compose. It is designed around a multi-agent architecture where specialized AI components collaborate to produce higher-quality responses while maintaining a privacy-focused, on-device execution model.
+OMNIX is a modular, local-first AI assistant for Android built using Jetpack Compose. It is designed around a multi-agent architecture where specialized AI components collaborate to produce high-quality responses while maintaining a privacy-focused, on-device execution model.
 
 The project is currently under active development.
 
@@ -26,7 +26,7 @@ The architecture is intentionally modular, allowing new capabilities to be integ
 
 Current development milestone:
 
-**Phase 4 – Model Manager**
+**Phase 5 – Inference Engine**
 
 ### Implemented
 
@@ -37,6 +37,11 @@ Current development milestone:
 - AI Council framework
 - Model Manager
 - Device hardware profiling
+- Inference Engine
+- Provider-based AI architecture
+- Streaming inference pipeline
+- Prompt formatting system
+- Conversation context management
 - Room persistence layer
 - Repository architecture
 - Hilt dependency injection
@@ -63,7 +68,7 @@ feature-modelmanager/
 |---------|-------------|
 | `app` | Application entry point, navigation and dependency injection |
 | `core-model` | Shared domain models |
-| `core-data` | Repository layer, Room database, DataStore, device profiling and AI interfaces |
+| `core-data` | Repository layer, Room database, DataStore, inference engine, model management and AI interfaces |
 | `core-ui` | Shared UI components, theme and design system |
 | `feature-home` | Home dashboard |
 | `feature-chat` | Chat interface |
@@ -75,6 +80,10 @@ feature-modelmanager/
 ## Current Features
 
 - Multi-agent AI Council
+- Provider-based Inference Engine
+- Streaming response architecture
+- Conversation context management
+- Prompt formatting
 - Model Manager
 - Device capability detection
 - AI model recommendation
@@ -117,29 +126,38 @@ feature-modelmanager/
 - Multi-agent orchestration
 - Council visualization
 
-### Phase 4 (Current)
+### Phase 4
 - Model Manager
 - Device hardware detection
 - AI model management
 - Model recommendation engine
 
-### Phase 5
-- Local inference engine
-- AI model execution
-- Streaming responses
-- Runtime management
-
-### Phase 6
-- Long-term memory
-- Semantic retrieval
+### Phase 5 (Current)
+- Inference Engine
+- Provider architecture
+- Streaming pipeline
+- Prompt formatting
 - Context management
 
+### Phase 6
+- Local runtime architecture
+- Local model loading
+- Runtime management
+- Performance metrics
+
 ### Phase 7
+- Real local LLM integration
+- Adaptive reasoning
+- AI Council runtime integration
+
+### Phase 8
+- Long-term memory
+- Semantic retrieval
 - Vision
 - Document understanding
 - Plugin framework
 
-### Phase 8
+### Phase 9
 - Performance optimization
 - Testing
 - Production stabilization
